@@ -74,6 +74,10 @@ a:active {
 	padding: var(--section-footer-padding);
 	text-align: var(--section-footer-align);
 }
+
+.footer {
+	padding: var(--footer-padding);
+}
 .section-header {
 	text-align: var(--section-header-align);
 	padding: var(--section-header-padding);
